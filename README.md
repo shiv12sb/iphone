@@ -3,10 +3,9 @@
 This project is a simple static webpage designed to showcase an iPhone-style product layout using HTML and CSS.
 
 ## Features
-- Responsive layout
 - Product showcase section
 - Styled buttons and sections
-- Clean and modern design
+- Clean and modern design using CSS
 
 ## Files
 - `index.html` — main structure of the webpage
