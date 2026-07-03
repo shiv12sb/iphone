@@ -10,7 +10,7 @@ This project is a simple static webpage designed to showcase an iPhone-style pro
 ## Files
 - `index.html` — main structure of the webpage
 - `style.css` — styling for the layout and design
-- `design.jpg`, `highlight.jpg`, `Iphone.jpg` — image assets used in the page
+- `design.jpg`, `highlight.jpg`, `Iphone.jpg` — image assets used in the page.
 
 ## How to Run
 1. Open `index.html` in your browser, or
